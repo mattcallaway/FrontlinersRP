@@ -1,0 +1,339 @@
+<event name="VehicleOffroadHatchback">
+
+<nominal>30</nominal>
+
+<min>25</min>
+
+<max>30</max>
+
+<lifetime>300</lifetime>
+
+<restock>0</restock>
+
+<saferadius>500</saferadius>
+
+<distanceradius>500</distanceradius>
+
+<cleanupradius>200</cleanupradius>
+
+<flags deletable="0" init_random="0" remove_damaged="1"/>
+
+<position>fixed</position>
+
+<limit>mixed</limit>
+
+<active>1</active>
+
+<children>
+
+<child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback"/>
+
+<child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_Blue"/>
+
+<child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_White"/>
+
+</children>
+
+</event>
+
+
+
+<type name="OffroadHatchback">
+
+<attachments chance="1.00">
+
+<item name="HatchbackWheel" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="HatchbackWheel" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="HatchbackWheel" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="HatchbackWheel" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="HatchbackWheel" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="CarRadiator" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="CarBattery" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="SparkPlug" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="HeadlightH7" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="HeadlightH7" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="HatchbackDoors_Driver" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="HatchbackDoors_CoDriver" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="HatchbackHood" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="HatchbackTrunk" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="CanisterGasoline" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="WatchtowerKit" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="NailBox" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="NailBox" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="NailBox" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="Hammer" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="Shovel" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="Pliers" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="MetalWire" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="Rope" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="FenceKit" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="DuctTape" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="Whetstone" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="CombinationLock4" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="WorkingGloves_Black" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="HandSaw" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="WoodAxe" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="Pickaxe" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="Hatchet" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="MediumTent" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="HuntingKnife" chance="1.00" />
+
+</attachments>
+
+</type>
+
+
+
+<type name="AKM">
+
+<attachments chance="0.60">
+
+<item name="AK74_WoodBttstck" chance="0.30" />
+
+</attachments>
+
+<attachments chance="0.60">
+
+<item name="AK_FoldingBttstck" chance="0.30" />
+
+</attachments>
+
+<attachments chance="0.60">
+
+<item name="AK_PlasticBttstck" chance="0.30" />
+
+</attachments>
+
+<attachments chance="0.60">
+
+<item name="AKS74U_Bttstck" chance="0.30" />
+
+</attachments>
+
+<attachments chance="0.60">
+
+<item name="AKS74U_Bttstck" chance="0.30" />
+
+</attachments>
+
+<attachments chance="0.60">
+
+<item name="AK74_Hndgrd" chance="0.30" />
+
+</attachments>
+
+<attachments chance="0.60">
+
+<item name="AK_RailHndgrd" chance="0.30" />
+
+</attachments>
+
+<attachments chance="0.60">
+
+<item name="AK_PlasticHndgrd" chance="0.30" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="AK_WoodBttstck" chance="1.00" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="AK_WoodHndgrd" chance="1.00" />
+
+</attachments>
+
+<attachments chance="0.50">
+
+<item name="KashtanOptic" chance="0.30" />
+
+<item name="PSO11Optic" chance="0.20" />
+
+</attachments>
+
+<attachments chance="0.50">
+
+<item name="AK_Suppressor" chance="0.20" />
+
+</attachments>
+
+<attachments chance="1.00">
+
+<item name="Mag_AKM_30Rnd" chance="1.00" />
+
+</attachments>
+
+</type>
