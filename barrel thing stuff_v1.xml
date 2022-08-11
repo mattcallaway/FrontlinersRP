@@ -1,0 +1,481 @@
+<!-- Types.xml: -->
+
+</type>
+
+<type name="Barrel_Blue">
+
+<nominal>0</nominal>
+
+<lifetime>3888000</lifetime>
+
+<restock>0</restock>
+
+<min>0</min>
+
+<quantmin>-1</quantmin>
+
+<quantmax>-1</quantmax>
+
+<cost>100</cost>
+
+<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+
+<category name="tools" />
+
+<tag name="floor" />
+
+<usage name="Industrial" />
+
+<usage name="Farm" />
+
+</type>
+
+
+
+
+
+<!-- CFGspawnabletypes.xml: -->
+
+<type name="Barrel_Blue">
+
+<cargo chance="1">
+
+<item name="AntiChemInjector" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="AntiChemInjector" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="AntiChemInjector" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NailBox" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NailBox" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NailBox" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NailBox" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NailBox" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NailBox" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NailBox" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NailBox" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NailBox" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NailBox" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NailBox" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NailBox" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NailBox" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NailBox" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Whetstone" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Whetstone" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Whetstone" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Whetstone" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Whetstone" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Whetstone" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Whetstone" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Whetstone" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Whetstone" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Whetstone" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Whetstone" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Whetstone" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Whetstone" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="DuctTape" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Hatchet" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Hatchet" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Hatchet" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Pliers" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Hacksaw" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Hacksaw" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Hacksaw" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Lard" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Lard" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Lard" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Lard" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Honey" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Honey" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="Honey" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="NBCJacketYellow" />
+
+</cargo>
+
+<cargo chance="1">
+
+<item name="GasMask_Filter" />
+
+</cargo>
+
+<hoarder />
+
+</type>
+
+
+
+
+
+<!-- Events.xml: -->
+
+<event name="ItemBarrel">
+
+<nominal>1</nominal>
+
+<min>1</min>
+
+<max>1</max>
+
+<lifetime>2500</lifetime>
+
+<restock>0</restock>
+
+<saferadius>0</saferadius>
+
+<distanceradius>0</distanceradius>
+
+<cleanupradius>200</cleanupradius>
+
+<flags deletable="0" init_random="0" remove_damaged="1"/>
+
+<position>fixed</position>
+
+<limit>child</limit>
+
+<active>1</active>
+
+<children>
+
+<child lootmax="0" lootmin="0" max="1" min="1" type="Barrel_Blue"/>
+
+</children>
+
+</event>
+
+
+
+
+
+<!-- CFGeventspawns.xml: -->
+
+<event name="ItemBarrel">
+
+<pos x="2034.72" z="6107.94" a="-1" />
+
+
+
+</event>
